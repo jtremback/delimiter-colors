@@ -1,0 +1,17 @@
+{
+  "name": "delimiter-colors",
+  "version": "1.0.0",
+  "description": "This add colors by splitting a string on delimiter and coloring each substring. Good for leveldb indexes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/"
+  },
+  "author": "jehan.tremback@gmail.com <you@example.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.4.0"
+  },
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
+}
